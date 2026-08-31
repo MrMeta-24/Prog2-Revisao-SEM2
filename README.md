@@ -1,12 +1,3 @@
----
-
-# Lista de Revisão — Programação II
-
-**Professor:** Rodrigo P. S. Ribeiro
-
-**Disciplina:** Programação II
-
----
 
 ## Orientações Gerais
 
